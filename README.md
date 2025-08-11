@@ -6,6 +6,7 @@ A collection of C programs that perform various array/matrix operations
 -Displays the lower triangle of a square matrix: C programming language  
 -Performs insertion and deletion operations in an array: C programming language  
 -Find the transpose and sum of sparse matrices: C++ programming language  
--Find the transpose of a matrix_column-wise input: C programming language
+-Find the transpose of a matrix_column-wise input: C programming language  
+-Rotate an array to the right: C++ programming language 
 
 
